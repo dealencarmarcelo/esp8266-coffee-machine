@@ -1,8 +1,8 @@
 #include "FirebaseESP8266.h"
 #include <ESP8266WiFi.h>
 
-const char* ssid = "RG_INTELBRAS";                 //SSID da rede WIFI
-const char* password =  "12023382";    //senha da rede wifi
+const char* ssid = "xxxxxx";        //SSID da rede WIFI
+const char* password =  "xxxxx";    //senha da rede wifi
 
 const double VCC = 3.3;             // NodeMCU on board 3.3v vcc
 const double R2 = 10000;            // 10k ohm series resistor
